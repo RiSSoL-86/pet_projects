@@ -151,7 +151,7 @@ media/
 sent_emails/
 
 # Файлы форматов:
-.mp4
-.mp3
-.pdf
+*.mp4
+*.mp3
+*.pdf
 

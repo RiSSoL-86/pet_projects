@@ -1,0 +1,7 @@
+icrawler
+six
+Pillow
+requests
+BeautifulSoup4
+lxml
+pyrogram
